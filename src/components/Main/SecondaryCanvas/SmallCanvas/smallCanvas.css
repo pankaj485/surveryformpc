@@ -1,0 +1,11 @@
+.smallCanvas {
+	height: 8rem;
+	width: 15rem;
+	text-align: left;
+	background-color: #ebe5e5;
+	box-shadow: 1px 2px 6px 1px #9c9999;
+}
+
+.smallCanvas h3 {
+	padding: 0.5rem;
+}

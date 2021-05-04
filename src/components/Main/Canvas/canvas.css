@@ -1,0 +1,84 @@
+.mainCanvas {
+	background-color: #2c7572;
+}
+
+/* ===== CANVAS HEADER ===== */
+
+.mainCanvas__Header {
+	background: linear-gradient(-45deg, #096295, #03bec4);
+	height: 2.5rem;
+	font-size: small;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+}
+
+.mainCanvas__Header--Items {
+	height: 2rem;
+	width: 12rem;
+	margin-top: 0.5rem;
+	text-align: left;
+	padding: 0.6rem 0 0.2rem 2rem;
+	cursor: pointer;
+}
+
+.mainCanvas__Header .first {
+	background-color: #d7dde0;
+}
+
+.mainCanvas__Header .second {
+	background-color: #b7c6cf;
+}
+
+/* ===== CANVAS  ===== */
+
+.canvasPageParent {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: -1.5rem 0 0 1rem;
+}
+
+.canvasPage {
+	background-color: #ebe5e5;
+	box-shadow: 1px 2px 6px 1px #9c9999;
+	height: 88%;
+	width: 80%;
+}
+
+.rightArrow,
+.leftArrow {
+	height: 4rem;
+	width: 3rem;
+	cursor: pointer;
+}
+
+/* === cursor icons ==== */
+
+.canvasTools {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+	background-color: #e0e4e7;
+	padding: 1.5rem 0.5rem;
+	border-top-left-radius: 1rem;
+	border-bottom-left-radius: 1rem;
+}
+
+.canvasTools img {
+	width: 1.5rem;
+	height: 1.5rem;
+}
+/* ==== add icon ==== */
+
+.addIcon {
+	position: absolute;
+	top: 68%;
+	right: 4%;
+}
+
+.addIcon img {
+	height: 4rem;
+	width: 4rem;
+}

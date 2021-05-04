@@ -1,0 +1,23 @@
+.mainHeader {
+	background-color: #d3d1d1;
+	height: 3rem;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	gap: 2rem;
+	padding-right: 3rem;
+}
+
+.userProfile {
+	height: 2rem;
+	width: 2rem;
+	background-color: red;
+	border: 2px solid white;
+	border-radius: 50%;
+}
+
+.burgerMenu img,
+.eyeIcon img {
+	height: 1.7rem;
+	width: 1.7rem;
+}
