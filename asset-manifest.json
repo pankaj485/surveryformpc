@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/surveryformpc/static/css/main.37660bba.chunk.css",
+    "main.js": "/surveryformpc/static/js/main.6e5215b2.chunk.js",
+    "main.js.map": "/surveryformpc/static/js/main.6e5215b2.chunk.js.map",
+    "runtime-main.js": "/surveryformpc/static/js/runtime-main.7494cd3d.js",
+    "runtime-main.js.map": "/surveryformpc/static/js/runtime-main.7494cd3d.js.map",
+    "static/js/2.aff7c5e6.chunk.js": "/surveryformpc/static/js/2.aff7c5e6.chunk.js",
+    "static/js/2.aff7c5e6.chunk.js.map": "/surveryformpc/static/js/2.aff7c5e6.chunk.js.map",
+    "static/js/3.85d86762.chunk.js": "/surveryformpc/static/js/3.85d86762.chunk.js",
+    "static/js/3.85d86762.chunk.js.map": "/surveryformpc/static/js/3.85d86762.chunk.js.map",
+    "index.html": "/surveryformpc/index.html",
+    "static/css/main.37660bba.chunk.css.map": "/surveryformpc/static/css/main.37660bba.chunk.css.map",
+    "static/js/2.aff7c5e6.chunk.js.LICENSE.txt": "/surveryformpc/static/js/2.aff7c5e6.chunk.js.LICENSE.txt",
+    "static/media/add.b2025e58.png": "/surveryformpc/static/media/add.b2025e58.png",
+    "static/media/cursorWhite.ee6948d4.png": "/surveryformpc/static/media/cursorWhite.ee6948d4.png",
+    "static/media/eye.77791c93.png": "/surveryformpc/static/media/eye.77791c93.png",
+    "static/media/graph.906e6629.png": "/surveryformpc/static/media/graph.906e6629.png",
+    "static/media/locator.8370d4f8.png": "/surveryformpc/static/media/locator.8370d4f8.png",
+    "static/media/pen-tool.eb9a9a04.png": "/surveryformpc/static/media/pen-tool.eb9a9a04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7494cd3d.js",
+    "static/js/2.aff7c5e6.chunk.js",
+    "static/css/main.37660bba.chunk.css",
+    "static/js/main.6e5215b2.chunk.js"
+  ]
+}
